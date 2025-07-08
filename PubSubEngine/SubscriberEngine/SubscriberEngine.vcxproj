@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="SubscriberEngine.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SubscribeEngine.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
